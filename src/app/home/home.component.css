@@ -1,0 +1,62 @@
+.title-col h3 {
+  text-align: center;
+}
+
+.invoke-form-div {
+  width: 500px;
+  background: #fff;
+  margin-top: 50px;
+}
+
+.form-column {
+  padding: 20px 35px !important;
+}
+
+.cell_con {
+  background: #fff;
+  padding-left: 20px;
+}
+
+.cell_con div {
+  width: 87%;
+}
+
+.links {
+  margin: auto;
+  text-align: center;
+}
+
+.btn {
+  margin: auto;
+  width: 100%;
+}
+
+#queryBtn {
+  width: 120px;
+  margin-left: 10px;
+}
+
+#logo {
+  max-height: 55px;
+}
+
+#userMoney {
+  font-weight: bold;
+  font-size: x-large;
+}
+
+.account {
+  font-size: large;
+}
+
+#login-btn {
+  background-color: #fff;
+  height: auto;
+}
+
+header span,
+header i,
+header button {
+  color: white;
+}
+

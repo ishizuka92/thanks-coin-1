@@ -1,0 +1,10 @@
+a.navbar-brand{
+  box-sizing: border-box;
+  position: relative;
+}
+
+.navbar-brand img {
+  height: 26px;
+  margin: 0 4px 3px 0;
+  vertical-align: middle;
+}
